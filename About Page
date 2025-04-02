@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>My Personal Page</title>
+</head>
+<body>
+    <h1>Hello, I'm [Your Name]</h1>
+    <img src="your_image.jpg" alt="My Profile Picture" width="200">
+    <p>I'm a [Your Profession/Interest]. I enjoy learning new things.</p>
+    <h2>My Hobbies:</h2>
+    <ul>
+        <li>Reading</li>
+        <li>Coding</li>
+        <li>[Another Hobby]</li>
+    </ul>
+    <p><a href="https://www.example.com">My Website</a></p>
+</body>
+</html>
